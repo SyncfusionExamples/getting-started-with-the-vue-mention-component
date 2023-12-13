@@ -35,7 +35,4 @@ export default {
 
 
 <style>
- .e-lib{
-    text-align: left ;
-  }
 </style>
